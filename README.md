@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi, My name is <b> Prajjwal kumar 👋</b> --Most welcome visitors !!
+Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Tech & mang. situated in Banglore. The worshipper of JAVA and a believer of Android to come to life one day🤞🏻. 
+<br>
 
-<!--
-**prajjwalkumar17/prajjwalkumar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/me.gif" width=400 height=340>
+  <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/new.gif" height=340/>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalkumar17" alt="prajjwalkumar17" /> </p>
 
-Here are some ideas to get you started:
+<i>*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/prajjwalkumar17/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwalkumar17&private=true&theme=radical" alt="Shyam's github stats" />
+</a>
+
+<a href="https://github.com/prajjwalkumar17/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalkumar17&layout=compact&theme=radical" />
+</a>
+
+
