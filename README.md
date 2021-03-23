@@ -6,7 +6,7 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
-<a href="http://therejoin.tech/pk/"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-page-48.png"></a>
+<a href="http://therejoin.tech/pk/" target="_blank"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-page-48.png"></a>
 <a href="https://www.instagram.com/kumar_prajjwal_singh/"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-instagram-48.png"></a>
 <a href="http://www.linkedin.com/in/prajjwal-singh-1752001/"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-linkedin-48.png"></a>
   <a href="http://rejointech.blogspot.com/"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-blogger-48.png"></a>
