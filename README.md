@@ -4,6 +4,14 @@ Hi, My name is <b> Prajjwal kumar 👋
 Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Tech & mang. situated in Banglore. The worshipper of JAVA and a believer of Android to come to life one day🤞🏻. 
 <br>
 
+<h3 align='center'><i>Social Media Handles</i></h3>
+<p align='center'>
+<a href="http://therejoin.tech/pk/"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-page-48.png"></a>
+<a href="https://www.instagram.com/kumar_prajjwal_singh/"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-instagram-48.png"></a>
+<a href="http://www.linkedin.com/in/prajjwal-singh-1752001/"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-linkedin-48.png"></a>
+  <a href="http://rejointech.blogspot.com/"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-blogger-48.png"></a>
+</p>
+
 <p align="left">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
   <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/animation_300_kmluq8z3.gif" height=340/>
