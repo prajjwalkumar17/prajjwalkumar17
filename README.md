@@ -4,7 +4,7 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
 
 <p align="left">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
-  <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/animation_500_kmlu03xt.gif" height=340/>
+  <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/animation_300_kmluq8z3.gif" height=340/>
 </p>
 
 - 🔭 I’m currently working on **Android** based **Social Networking** project.
