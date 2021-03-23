@@ -28,10 +28,16 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
 
 <i>*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</i>
 
-<a href="https://github.com/prajjwalkumar17/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwalkumar17&private=true&theme=radical" alt="Shyam's github stats" />
-</a>
 
-<a href="https://github.com/prajjwalkumar17/github-readme-stats">
+
+  <p align="left">
+  <a href="https://github.com/prajjwalkumar17/github-readme-stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=prajjwalkumar17&private=true&theme=radical" width=400 height=340>
+  <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/animation_200_kmlvjsel.gif" height=340/>
+    </a>
+</p>
+Ps show some Love by starring some repo's🤞🏻😉.
+
+  
   
 
