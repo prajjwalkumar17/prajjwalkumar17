@@ -7,6 +7,7 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
   <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/animation_300_kmluq8z3.gif" height=340/>
 </p>
 
+
 - 🔭 I’m currently working on **Android** based **Social Networking** project.
 - 🌱 I’m currently learning **JavaScript and Php**.
 - 👯 I’m looking to collaborate on Open Source projects.
@@ -14,6 +15,13 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
 - 📫 How to reach me: talk2prajjwal@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Don't know why bugs exist need to know.
+
+<h2 align='center'><i><a href="https://github.com/prajjwalkumar17/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/prajjwalkumar17/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=prajjwalkumar17&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalkumar17" alt="prajjwalkumar17" /> </p>
 
