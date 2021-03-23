@@ -3,8 +3,8 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
 <br>
 
 <p align="left">
-  <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/me.gif" width=400 height=340>
-  <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/new.gif" height=340/>
+  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
+  <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/animation_200_kmltj8ki.gif" height=340/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalkumar17" alt="prajjwalkumar17" /> </p>
 
