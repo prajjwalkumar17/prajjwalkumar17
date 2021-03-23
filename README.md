@@ -23,7 +23,6 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalkumar17" alt="prajjwalkumar17" /> </p>
 
 <i>*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</i>
 
@@ -32,7 +31,5 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
 </a>
 
 <a href="https://github.com/prajjwalkumar17/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalkumar17&layout=compact&theme=radical" />
-</a>
-
+  
 
