@@ -1,4 +1,5 @@
-Hi, My name is <b> Prajjwal kumar 👋</b> --Most welcome visitors !!
+Hi, My name is <b> Prajjwal kumar 👋
+</b> --Most welcome visitors !!
 Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Tech & mang. situated in Banglore. The worshipper of JAVA and a believer of Android to come to life one day🤞🏻. 
 <br>
 
