@@ -23,7 +23,7 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
 - 🌱 I’m currently learning **JavaScript and Php**.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about: Anything.
-- 📫 How to reach me: talk2prajjwal@gmail.com
+- 📫 How to reach me: write2prajjwal@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Don't know why bugs exist need to know.
 
