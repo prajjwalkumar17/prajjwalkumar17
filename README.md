@@ -51,7 +51,7 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
   <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/animation_200_kmlvjsel.gif" height=340/>
     </a>
 </p>
-Ps show some Love by starring some repo's🤞🏻😉.
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 
   
   
