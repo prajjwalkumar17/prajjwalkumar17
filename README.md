@@ -7,7 +7,7 @@ The worshipper of JAVA and a believer of Android to come to life one day🤞🏻
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
-<a href="https://www.youtube.com/channel/UCsh3MSY-FkqIACAVZAEWHBQ" target="_blank"><img height="30"src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/youthubeicon.png"></a>  
+<a href="https://www.youtube.com/channel/UCsh3MSY-FkqIACAVZAEWHBQ"><img height="30"src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/youthubeicon.png"></a>  
 <a href="https://prajjwalportfolio.netlify.app/" target="_blank"><img height="30"src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-page-48.png"></a>
 <a href="https://www.instagram.com/kumar_prajjwal_singh/"target="_blank"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-instagram-48.png"></a>
 <a href="http://www.linkedin.com/in/prajjwal-singh-1752001/"target="_blank"><img height="30" src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/icons8-linkedin-48.png"></a>
@@ -27,17 +27,9 @@ The worshipper of JAVA and a believer of Android to come to life one day🤞🏻
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Don't know why bugs exist need to know.
 
-<h2 align='center'><i><a href="https://github.com/prajjwalkumar17/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/prajjwalkumar17/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prajjwalkumar17&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-
 
 <i>*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</i>
 
-  
 ### 🏆 My GitHub Stats: 
 
   <p align="left">
