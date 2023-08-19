@@ -1,7 +1,8 @@
 ![](https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/Game%20on%20new.png)
 Hi, My name is <b> Prajjwal kumar 👋
 </b> --Most welcome visitors !!
-Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Tech & mang. situated in Banglore. The worshipper of JAVA and a believer of Android to come to life one day🤞🏻. 
+Currently, I am ASDE in Juspay🌀.
+The worshipper of JAVA and a believer of Android to come to life one day🤞🏻. 
 <br>
 
 <h3 align='center'><i>Social Media Handles</i></h3>
@@ -19,9 +20,8 @@ Currently, I am pursuing my Bachelors in Tech. from Dayanand Sagar Academy of Te
 </p>
 
 
-- 🔭 I’m currently working on **Android** based **Social Networking** project.
-- 🌱 I’m currently learning **JavaScript and Php**.
-- 👯 I’m looking to collaborate on Open Source projects.
+- 🔭 I’m currently working on **Rust** based **Payment Orchestrator** HyperSwitch.
+- 🌱 Currently exploring **Graphana and Rust**.
 - 💬 Ask me about: Anything.
 - 📫 How to reach me: write2prajjwal@gmail.com
 - 😄 Pronouns: He/His
