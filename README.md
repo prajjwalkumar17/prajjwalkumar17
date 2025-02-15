@@ -36,7 +36,7 @@ The worshipper of JAVA and a believer of Android to come to life one day🤞🏻
   <a href="https://github.com/prajjwalkumar17/github-readme-stats"> 
   <img src="https://github-readme-stats.vercel.app/api?username=prajjwalkumar17&private=true&theme=radical&show_icons=true&include_all_commits=true" width=400 height=340>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalkumar17&theme=radical" width=400 height=340>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalkumar17&theme=radical" width=400 height=340>
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalkumar17&theme=radical" width=400 height=340> -->
     
     
     
