@@ -108,10 +108,10 @@ const prajjwal = {
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/prajjwalkumar17">
-    <img src="https://activity-graph.herokuapp.com/graph?username=prajjwalkumar17&theme=redical&hide_border=true&area=true" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajjwalkumar17&theme=redical&hide_border=true&area=true" width="100%">
   </a>
 </p>
-
+ 
 <!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/prajjwalkumar17">
@@ -122,9 +122,9 @@ const prajjwal = {
 <!-- GitHub Snake contribution graph -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/blob/main/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
