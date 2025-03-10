@@ -1,0 +1,35 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Run workflow automatically every day at midnight
+    - cron: "0 0 * * *"
+  
+  # Allow manual workflow runs
+  workflow_dispatch:
+  
+  # Run on every push to the main branch
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout repository
+      - uses: actions/checkout@v3
+      
+      # Generate the snake
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      
+      # Push to repository
+      - name: Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Generate Snake Animation'
+          add: 'dist'
