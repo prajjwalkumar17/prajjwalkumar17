@@ -121,11 +121,11 @@ const prajjwal = {
 
 <!-- GitHub Snake contribution graph -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+      <img alt="github-snake" src="dist/github-snake.svg" />
+    </picture>
 </p>
 
 <div align="center">
