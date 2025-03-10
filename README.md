@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%94%A5+THINK+%7C+CODE+%7C+TEST+%7C+SMILE+%F0%9F%94%A5" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="100">
+  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="100">
 </div>
 
 <div align="center">
@@ -29,12 +29,13 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
   ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 </div>
 
@@ -56,8 +57,8 @@ const prajjwal = {
   codingEnvironment: {
     music: "Lofi beats",
     drink: "Coffee, lots of coffee",
-    editor: "VSCode with dark theme",
-    os: "Ubuntu/MacOS"
+    editor: "Neovim with custom config",
+    os: "NixOS/MacOS"
   }
 };
 ```
@@ -87,31 +88,28 @@ const prajjwal = {
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/prajjwalkumar17">
-    <img src="https://github-readme-stats.vercel.app/api?username=prajjwalkumar17&theme=radical&show_icons=true&include_all_commits=true&count_private=true&border_radius=10" width="48%" alt="Prajjwal's github stats"/>
-  </a>
-  <a href="https://github.com/prajjwalkumar17">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalkumar17&theme=radical&border_radius=10" width="48%" alt="Prajjwal's github streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/prajjwalkumar17">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalkumar17&theme=radical&layout=compact&langs_count=8&border_radius=10" width="40%" alt="Prajjwal's top languages"/>
-  </a>
-  <a href="https://github.com/prajjwalkumar17">
-    <img src="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/main/animation_200_kmlvjsel.gif" height="170" alt="Coding gif"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <img src="https://github-readme-stats.vercel.app/api?username=prajjwalkumar17&theme=radical&show_icons=true&include_all_commits=true&count_private=true&border_radius=10" width="100%" alt="Prajjwal's github stats"/>
+      </td>
+      <td width="40%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalkumar17&theme=radical&layout=compact&langs_count=8&border_radius=10" width="100%" alt="Prajjwal's top languages"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/main/animation_200_kmlvjsel.gif" height="190" alt="Coding gif"/>
+</div>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/prajjwalkumar17">
-    <img src="https://activity-graph.herokuapp.com/graph?username=prajjwalkumar17&theme=redical&hide_border=true&area=true" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajjwalkumar17&theme=redical&hide_border=true&area=true" width="100%">
   </a>
 </p>
-
+ 
 <!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/prajjwalkumar17">
