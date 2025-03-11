@@ -132,13 +132,29 @@ const prajjwal = {
     </tr>
   </table>
   
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajjwalkumar17&theme=radical" width="100%" alt="Repos per Language"/>
+      </td>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajjwalkumar17&theme=radical" width="100%" alt="Most Commit Language"/>
+      </td>
+    </tr>
+  </table>
+  <!-- Productive Time -->
+  <table>
+    <tr>
+      <td width="100%">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajjwalkumar17&theme=radical&utcOffset=8" width="100%">
+        </td>
+    </tr>
+  </table>
+  
   <img src="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/main/animation_200_kmlvjsel.gif" height="190" alt="Coding gif"/>
 </div>
 
-<!-- Productive Time -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajjwalkumar17&theme=radical&utcOffset=8" width="60%">
-</p>
+
 
 <!-- GitHub Activity Graph -->
 <p align="center">
