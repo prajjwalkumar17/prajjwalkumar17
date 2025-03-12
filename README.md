@@ -164,11 +164,9 @@ const prajjwal = {
 </p>
  
 <!-- GitHub Trophy -->
-<p align="center">
-  <a href="https://github.com/prajjwalkumar17">
-    <img src="https://github-profile-trophy.vercel.app/?username=prajjwalkumar17&theme=radical&row=1&column=7&margin-w=15&margin-h=15" width="100%">
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prajjwalkumar17&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-cache=true" alt="Trophy" />
+</div>
 
 <!-- GitHub Snake contribution graph -->
 <p align="center">
