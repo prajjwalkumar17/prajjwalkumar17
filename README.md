@@ -1,7 +1,3 @@
-# <GAME ON/> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%94%A5+THINK+%7C+CODE+%7C+TEST+%7C+CONQUER+%F0%9F%94%A5" alt="Typing SVG" />
-
 <div align="center">
   <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100">
@@ -10,54 +6,18 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+My+name+is+Prajjwal+Kumar+%F0%9F%92%A5;Code+is+my+canvas%2C+innovation+my+art;ASDE+at+Juspay%F0%9F%8C%80;JAVA+Enthusiast+%26+Rust+Explorer+%F0%9F%A4%9E%F0%9F%8F%BB" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=prajjwalkumar17&style=flat-square&color=red" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/prajjwalkumar17?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/prajjwalkumar17?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
   <img src="https://img.shields.io/badge/Code%20Quality-A%2B%2B-success" alt="Code Quality" />
 </div>
-
-<div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  
-  ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-  ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-<div align="center">
-  <h3>Technology Arsenal</h3>
-  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-</div>
-
+<!-- GitHub Snake contribution graph -->
 <p align="center">
-  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width="400" height="340">
-  <img src="https://github.com/prajjwalkumar17/prajjwalkumar17/blob/main/animation_300_kmluq8z3.gif" height="340"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+      <img alt="github-snake" src="dist/github-snake.svg" />
+    </picture>
 </p>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
@@ -106,14 +66,6 @@ const prajjwal = {
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Development Metrics
 
-<h4 align="center">
-  💻 Coding time last week: 32 hrs 47 mins
-  <br>
-  🏆 Completed 276+ tasks this year
-  <br>
-  🚀 Deployed 18 projects to production
-</h4>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajjwalkumar17&theme=radical" alt="Activity Graph" width="100%">
 </p>
@@ -143,18 +95,9 @@ const prajjwal = {
     </tr>
   </table>
   <!-- Productive Time -->
-  <table>
-    <tr>
-      <td width="100%">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajjwalkumar17&theme=radical&utcOffset=8" width="100%">
-        </td>
-    </tr>
-  </table>
-  
-  <img src="https://raw.githubusercontent.com/prajjwalkumar17/prajjwalkumar17/main/animation_200_kmlvjsel.gif" height="190" alt="Coding gif"/>
 </div>
 
-
+#
 
 <!-- GitHub Activity Graph -->
 <p align="center">
@@ -168,14 +111,6 @@ const prajjwal = {
   <img src="https://github-profile-trophy.vercel.app/?username=prajjwalkumar17&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-cache=true" alt="Trophy" />
 </div>
 
-<!-- GitHub Snake contribution graph -->
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-      <img alt="github-snake" src="dist/github-snake.svg" />
-    </picture>
-</p>
 
 <!-- Quotes -->
 <p align="center">
@@ -187,10 +122,3 @@ const prajjwal = {
 </div>
 
 > *NOTE: Top languages does not indicate my skill level or proficiency, it's a GitHub metric showing which languages have the most code on my GitHub repositories.*
-
-<!-- Buy Me a Coffee -->
-<p align="center">
-  <a href="https://buymeacoffee.com/prajjwal_kumar">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=prajjwal_kumar&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me a Coffee">
-  </a>
-</p>
